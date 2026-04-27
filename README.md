@@ -12,7 +12,8 @@ Diferente dos modelos puramente teóricos de Kuramoto, o QuadNet utiliza uma imp
 ## Repositório Principal e Parâmetros dos Experimentos
 Este repositório é focado nos testes e rotinas de análise (não contendo os ficheiros de dados de simulação mais pesados). 
 
-Para ter acesso a todos os parâmetros detalhados de cada experimento (incluindo as frequências naturais exatas utilizadas, matrizes de adjacência e forças de acoplamento) e à documentação oficial do protocolo, por favor, consulte o repositório principal do coordenador do projeto Leandro Freitas: **[Repositório Oficial: leandrofabreu/quadNetEstimationChallenge](https://github.com/leandrofabreu/quadNetEstimationChallenge/tree/main)**
+Para ter acesso a todos os parâmetros detalhados de cada experimento (incluindo as frequências naturais exatas utilizadas, matrizes de adjacência e forças de acoplamento) e à documentação oficial do protocolo, por favor, consulte o repositório principal do coordenador do projeto Leandro Freitas: 
+[Repositório Oficial: leandrofabreu/quadNetEstimationChallenge](https://github.com/leandrofabreu/quadNetEstimationChallenge/tree/main)
 
 ## O Desafio de Estimação (The Challenge!)
 O objetivo central deste repositório é fornecer ferramentas para o desafio de **observabilidade dinâmica**:
