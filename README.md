@@ -1,14 +1,14 @@
-# QuadNet Estimation Challenge 🌀
+# QuadNet Estimation Challenge
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![Institution](https://img.shields.io/badge/Institution-IFMG-red.svg)](https://www.ifmg.edu.br/betim)
 
-## 📋 Sobre o Projeto
+## Sobre o Projeto
 O **QuadNet** é uma plataforma experimental e numérica dedicada ao estudo de fenômenos emergentes e desafios de estimação em redes complexas de **Osciladores de Quadratura**. 
 
 Diferente dos modelos puramente teóricos de Kuramoto, o QuadNet utiliza uma implementação eletrônica robusta que permite validar a dinâmica de fase em ambientes com ruído real, incertezas paramétricas e limitações de hardware.
 
-## 🚀 O Desafio de Estimação (The Challenge!)
+## O Desafio de Estimação (The Challenge!)
 O objetivo central deste repositório é fornecer ferramentas para o desafio de **observabilidade dinâmica**:
 > *“Como estimar a fase de todos os osciladores da rede utilizando o menor conjunto possível de variáveis medidas?”*
 
