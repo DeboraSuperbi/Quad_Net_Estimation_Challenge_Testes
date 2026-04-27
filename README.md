@@ -2,7 +2,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![IFMG Betim](https://img.shields.io/badge/Institution-IFMG_Betim-red.svg)](https://www.ifmg.edu.br/betim)
-[![UFMG](https://img.shields.io/badge/Institution-UFMG-black.svg)](https://www.ufmg.br/)
+[![UFMG](https://img.shields.io/badge/Institution-UFMG-green.svg)](https://www.ufmg.br/)
 
 ## Sobre o Projeto
 O **QuadNet** é uma plataforma experimental e numérica dedicada ao estudo de fenômenos emergentes e desafios de estimação em redes complexas de **Osciladores de Quadratura**. 
