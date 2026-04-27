@@ -28,7 +28,7 @@ O código permite a análise em diversas arquiteturas de rede:
 - **Livre de Escala** (Scale-Free)
 
 ## Estrutura do Repositório
-- `/EXP_00x/`: Dados brutos e resultados de campanhas experimentais.
+- `/EXP_00x/`: Dados brutos, resultados e análise dos experimentos.
 - `quadratureNetwork.py`: Biblioteca principal para simulação da dinâmica da rede.
 - `Exp00x_analyseResults.ipynb`: Notebooks para processamento de sinais (FFT, Parâmetro de Ordem e Sincronismo).
 - `m10_polyModel_freq_to_R2.npz`: Modelo polinomial para calibração das frequências naturais.
