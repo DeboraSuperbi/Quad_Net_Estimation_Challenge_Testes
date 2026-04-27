@@ -1,8 +1,7 @@
 # QuadNet Estimation Challenge 🌀
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Institution](https://img.shields.io/badge/Institution-IFMG-red.svg)](https://www.ifmg.edu.br)
+[![Institution](https://img.shields.io/badge/Institution-IFMG-red.svg)](https://www.ifmg.edu.br/betim)
 
 ## 📋 Sobre o Projeto
 O **QuadNet** é uma plataforma experimental e numérica dedicada ao estudo de fenômenos emergentes e desafios de estimação em redes complexas de **Osciladores de Quadratura**. 
