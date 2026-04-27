@@ -42,7 +42,7 @@ Se você utilizar este código ou os dados experimentais em sua pesquisa, por fa
 3. **Abreu, L.F., et al. (2025)**. *"Experimental Kuramoto Platform: Electronic Implementation of Networks"*. (Preprint disponível no repositório).
 
 ## Colaboradores e Fomento
-Este projeto é desenvolvido no **Laboratório de Redes Complexas do IFMG Betim** com o apoio de:
+Este projeto foi desenvolvido com o apoio de:
 * **FAPEMIG** (APQ-00781-21)
 * **CNPq** (409487/2021-0)
 * **CAPES**
